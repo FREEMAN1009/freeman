@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models\humangrunt\mw2\spetsnaz\mtl_eric_eye"
+	"$phong" "1"
+//	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongboost" "20"
+	"$phongfresnelranges"	"[.5 1 48]"
+//	$translucent 1
+
+	"$rimlight" "1"										
+	"$rimlightexponent" "20"							
+	"$rimlightboost" "0.3"
+	$phongexponenttexture "Models\humangrunt\mw2\spetsnaz\mtl_hazel_eye_spec"
+}
+
+
